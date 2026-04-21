@@ -47,7 +47,7 @@ function sendWhatsApp() {
 
 Merci de confirmer 🙏`;
 
-  let number = "221771485739"; // 🔁 change ton numéro ici
+  let number = "221771485732"; // 🔁 change ton numéro ici
 
   let url = "https://wa.me/" + number + "?text=" + encodeURIComponent(message);
 
